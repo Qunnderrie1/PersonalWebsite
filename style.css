@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(45, 12, 105);
+    color: white;
+}
+.mainContainer{
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+h2, h1{
+    margin-top: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: normal;
+}
+ul{
+    list-style: none;
+}
+li{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: normal;
+}
+hr{
+    margin-top: 20px;
+    width: 20%;
+}
+img{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 50%;
+}
+footer{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: normal;
+    margin-top: 80px;
+}
